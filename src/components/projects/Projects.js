@@ -12,7 +12,7 @@ const Projects = () => {
         des="My Projects"
       />
       </div>
-      <div className="grid grid-cols-3 gap-14">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectCard title="SOCIAL MEDIA CLONE" des="Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt." src={projectOne} />
         <ProjectCard title="SOCIAL MEDIA CLONE" des="Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt." src={projectTwo} />
         <ProjectCard title="SOCIAL MEDIA CLONE" des="Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt.Minim fugiat esse officia incididunt." src={projectThree} />
