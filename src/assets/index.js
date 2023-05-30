@@ -1,23 +1,30 @@
 import logo from "./images/logo.png";
-import bannerImg from "./images/bannerImg.png";
-import projectOne from "./images/projects/projectOne.jpg";
-import projectTwo from "./images/projects/projectTwo.jpg";
-import projectThree from "./images/projects/projectThree.jpeg";
-import testimonialOne from "./images/testmonial/testimonialOne.png";
-import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
-import boy2 from "./images/boy2.png";
+import boy2 from "./images/boy2.webp";
+import myImg from './images/myImg.webp';
+import rf1 from './images/projects/rf.png';
+import delivery from './images/projects/delivery.png';
+import ecom from './images/projects/e-com.png';
+import pos from './images/projects/pos.png';
+import onFlick from './images/projects/agency.png';
+import sway from './images/projects/sway.png';
+import user from './images/testmonial/user.webp';
+import bio from './images/INBIO.png';
 
 export {
-  logo,
-  bannerImg,
-  projectOne,
-  projectTwo,
-  projectThree,
-  testimonialOne,
-  testimonialTwo,
+  
   quote,
   contactImg,
-  boy2
+  boy2,
+  myImg,
+  rf1,
+  delivery,
+  ecom,
+  pos,
+  onFlick,
+  sway,
+  user,
+  bio,
+  logo
 };
